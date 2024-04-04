@@ -33,3 +33,6 @@
 /cmake-build-debug/
 .vscode
 build
+
+# IDE specific settings?? dunno
+.idea
