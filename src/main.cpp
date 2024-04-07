@@ -1,9 +1,13 @@
 #include <iostream>
 #include "second.h"
+#include "ReadFile.h"
 
 int main() {
-    printhere();
+    Read();
+
+    //printhere();
 // test
+
     return 0;
 }
 

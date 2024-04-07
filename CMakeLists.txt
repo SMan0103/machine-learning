@@ -16,5 +16,7 @@ foreach (_headerFile ${NumberLearner_HEADERS})
 endforeach()
 list (REMOVE_DUPLICATES NumberLearner_INCLUDE_DIRS)
 
-add_executable(NumberLearnerExe ${NumberLearner_SOURCES})
+add_executable(NumberLearnerExe ${NumberLearner_SOURCES}
+        src/ReadFile.cpp
+        src/ReadFile.h)
 target_include_directories(NumberLearnerExe PRIVATE ${NumberLearner_INCLUDE_DIRS})
