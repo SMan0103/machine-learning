@@ -1,4 +1,6 @@
-Building with cmd:
+# Run Code
+
+## Building with cmd
 
 mkdir build
 cd build
@@ -6,8 +8,10 @@ cmake ..
 cmake --build . --config Debug
 Debug\NumberLearnerExe.exe
 
+## Debug
 
 To debug with intergrated console in vscode, adjust .vscode/settings.json with either of these:
+
 ```json
 "cmake.debugConfig": {
     "console": "integratedTerminal"
@@ -16,4 +20,4 @@ To debug with intergrated console in vscode, adjust .vscode/settings.json with e
 "cmake.debugConfig": {
     "externalConsole": true
 }
-``` 
+```
