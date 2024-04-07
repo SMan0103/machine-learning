@@ -1,3 +1,3 @@
-C:/Users/steam/Desktop/Code/projectmitarnders/machine-learning/cmake-build-debug/CMakeFiles/NumberLearnerExe.dir
-C:/Users/steam/Desktop/Code/projectmitarnders/machine-learning/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/steam/Desktop/Code/projectmitarnders/machine-learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/steam/CLionProjects/Anders og jeg/cmake-build-debug/CMakeFiles/Anders_og_jeg.dir
+C:/Users/steam/CLionProjects/Anders og jeg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/steam/CLionProjects/Anders og jeg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
